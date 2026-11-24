@@ -17,4 +17,4 @@ A desktop Password Manager built with Python and **Tkinter**, created as part of
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/password-manager.git
+   git clone https://github.com/Yash-GhubAccount/password-manager-python.git
