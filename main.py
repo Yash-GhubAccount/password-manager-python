@@ -111,7 +111,7 @@ entry_website.grid(row=1,column=1,sticky="EW")
 
 #Entry for email
 entry_email = Entry(width=35)
-entry_email.insert(0,"belankary@gmail.com")
+entry_email.insert(0,"placeholder@mail.com")
 entry_email.grid(row=2,column=1,columnspan=2,sticky="EW")
 
 #Entry for password
